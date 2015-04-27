@@ -1,0 +1,155 @@
+#title {
+	font-family: "Josefin Sans" ;
+	font-weight: 700;
+	font-size: 35px;
+	margin: 0 auto;
+	color: white;
+	text-align: center;
+	margin: 15px;
+	line-height: 1; 
+	padding-top: 30px;
+	padding-left: -100px;
+	position: relative;
+   
+
+}	
+
+#circle {
+	width: 150px;
+	height: 150px;
+	z-index: 100;
+	border: 10px solid white;
+	border-radius: 50%;
+	position: relative;
+	margin: 0 auto;
+	top: 50%;
+	left: 50%;
+	margin-left: -100px;
+	margin-top: -300px;
+	z-index: 300;
+	background-color: #FAD6DE;
+}
+
+body {
+	
+	background: radial-gradient(circle, white 10%, transparent 10%),
+	radial-gradient(circle, white 10%, #FAD6DE 10%) 50px 50px;
+	background-size:100px 100px;
+}
+
+/*formatting*/
+#content {
+	margin: 0 auto;
+	text-align: center;
+	margin-left: 30px;
+	margin-top: 380px;
+
+}
+
+.image {
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+	/* padding-top: 60px; */
+	/* margin: 10px; */
+	margin-top: 50px;
+	float: left;
+	margin-right: 20px;
+
+}
+
+.item-title {
+	font-family: "Josefin Sans" ;
+	font-weight: 400;
+	font-size: 50px;
+	color: white;
+	background-color: none;	
+	/* padding-top: 10px; */
+	top: 0px;
+	/* float: left; */
+}
+
+.description {
+	font-family: "Josefin Sans" ;
+	font-weight: 300;
+	font-size: 25px;
+	color: #FFBDCD	;
+	width: 400px;
+	height: 360px;
+	background-color: white;
+	float: left;
+	padding: 20px;
+	line-height: 1.25; 
+	text-align: left;
+
+	/* position: absolute; */
+	margin-top:  50px;
+}
+
+/*)
+#container-1 {
+	top: 370px;
+	/* left: 300px; 
+
+	
+
+	position: relative;
+	/* width:  100%; */
+	/*
+} 
+
+#container-2 {
+	margin-left: 100px;
+}
+*/
+
+.container {
+	position: relative;
+	margin: 20px 0px;
+	margin-left: 100px;
+
+}
+
+
+
+#top-bar {
+	position: absolute;
+	width: 100%;
+	height: 35px;
+	background-color: white;
+	margin-top: 225px;
+	top: -20px;
+	margin-left: -10px;
+} 
+
+#topbar-item {
+	text-align: center;
+	padding-top: 10px;
+}
+
+#topbar-item ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	color: #FAD6DE;
+}
+
+#topbar-item li {
+	display: inline;
+	font-family: "Josefin Sans";
+	font-weight: 400;
+	font-size: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+#topbar-item li:hover {
+	opacity: .6;
+}
+
+
+a {
+	text-decoration: none;
+	color: #FAD6DE;
+}

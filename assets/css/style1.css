@@ -1,0 +1,76 @@
+#title {
+	font-family: "Josefin Sans" ;
+	font-weight: 700;
+	font-size: 60px;
+	margin: auto;
+	color: white;
+	text-align: center;
+	margin: 15px;
+	line-height: 1; 
+	padding-top: 55px;
+
+}	
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+#circle {
+	width: 250px;
+	height: 250px;
+	z-index: 100;
+	border: 10px solid white;
+	border-radius: 50%;
+	position: relative;
+	margin: 0 auto;
+	top: 50%;
+	left: 50%;
+	margin-left: -140px;
+	margin-top: -200px;
+	z-index: 300;
+	background-color: #FAD6DE;
+}
+
+
+body {
+	margin: 0px;
+}
+
+#text {
+	text-transform: uppercase;
+	font-family: "Josefin Sans" ;
+	font-weight: 500;
+	font-size: 40px;
+	color: white;
+	letter-spacing: 5px;
+	word-spacing: 20px;
+	text-align: center; 
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: 0 auto;
+	margin-left: -224px;
+	margin-top: 350px;
+	border: 3px solid white;
+	padding: 10px;
+	z-index: 100;
+	width: 400px;
+
+
+}
+
+#container {
+	position: relative;
+	z-index: 200;
+
+}
+
+#background {
+	position: fixed;
+	top: 0;
+	object-fit: cover;
+	z-index: 100;
+	width: 100%;
+	height: 100%;
+}

@@ -1,0 +1,45 @@
+<div class="container" id="container-2">
+			<div class="item-title">La Mediterranee</div>
+			<img class ="image" src="assets/images/la med.jpg">
+			<div class="description">Try the <b>baklava</b> here, you will not regret it. The baklava comes with a light whipped cream that is just heavenly. Another plus? The other desserts are really amazing as well so make sure you come with friends.<br><b>TIP:</b> The middle eastern plate is really filling and delicious and has a variety of foods.</div>
+		</div>
+		<div class="container" id="container-3">
+			<div class="item-title">Summer Kitchen</div>
+			<img class ="image" src="assets/images/summer copy.jpg">
+			<div class="description">This store has the best cupcake I&#8217;ve ever had: <b>cream cheese frosting on a chocolate cupcake.</b> The cupcake is so moist and the frosting is so tasty that I&#8217;m tempted to always buy a cupcake whenever I&#8217;m on College. The little chocolate balls on the top of the cupcake are always fun to chew on too!<br><b>TIP:</b> The crispy chicken sandwich is amazing here. </div>
+		</div>
+		<div class="container" id="container-4">
+			<div class="item-title">Chez Panisse</div>
+			<img class ="image" src="assets/images/chez.jpg">
+			<div class="description"><b>Fruit galette.</b> Need I say more? It&#8217;s Chez Panisse!<br><b>TIP:</b> Their cafe upstairs is a lot easier to get a reservation at and cheaper.</div>
+		</div>
+		<div class="container" id="container-5">
+			<div class="item-title">Philz Coffee</div>
+			<img class ="image" src="assets/images/philz.jpg">
+			<div class="description">I always get the <b>ecstatic ice coffee extra sweet and creamy.</b> The baristas are very friendly and will always make sure each customer has his drink the way he wants it to be.<br><b>TIP:</b> Get an alfajore!</div>
+		</div>
+		<div class="container" id="container-6">
+			<div class="item-title">Purple Kow</div>
+			<img class ="image" src="assets/images/purple.jpg">
+			<div class="description"><b>D3: iced milk drink with caramel, boba, and pudding.</b> I love sweet stuff and this is the ultimate sweet dessert for me.<br><b>TIP:</b> Share the drink with a friend!</div>
+		</div>
+		<div class="container" id="container-7">
+			<div class="item-title">Pacific Cookie Company</div>
+			<img class ="image" src="assets/images/pcc.jpg">
+			<div class="description">This store has a very friendly staff and if you follow its instagram, the store gives out free cookies everyday! You just have to see the word of the day on instagram and they&#8217;ll give you a free cookie. Also if you check in on yelp, it&#8217;s bogo! Favorite flavors include: <b>Dr. Midnight, mint condition, and snickerdoodle!</b> <br><b>TIP:</b> They run out of cookies usually in the afternoon, but they&#8217;ll make a second batch so just come back later.</div>
+		</div>
+		<div class="container" id="container-8">
+			<div class="item-title">Sharetea</div>
+			<img class ="image" src="assets/images/sharetea.jpg">
+			<div class="description">I always get the <b>mango green milk tea with pudding.</b> I love how sweet this drink is and really, anything with mango in it is an automatic plus for me.<br><b>TIP:</b> You can order online so when you get to the store you won&#8217;t have to wait in line.</div>
+		</div>
+		<div class="container" id="container-9">
+			<div class="item-title">Cream</div>
+			<img class ="image" src="assets/images/cream.jpg">
+			<div class="description">$2.00 for 2 cookies and ice cream? Best deal ever. Aside from its lines, cream is an affordable dessert. Its ice cream is just good regular ice cream and I come here when Ici is too far of a trek.<br><b>TIP:</b> The store can have very long lines, especially at night.</div>
+		</div>
+		<div class="container" id="container-10">
+			<div class="item-title">Casa de Chocolates</div>
+			<img class ="image" src="assets/images/casa.jpg">
+			<div class="description">Best <b>flan</b> ever! It&#8217;s so sweet and soft and it just makes me want to keep on eating it. Also, the store&#8217;s cold Mexican hot chocolate is very good and has a spicy kick to it.<br><b>TIP:</b> The flan is super popular so make sure you get there early.</div>
+		</div>
